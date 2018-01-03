@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="70" height="9" tilewidth="70" tileheight="70" nextobjectid="1">
+ <tileset firstgid="1" name="sheet" tilewidth="70" tileheight="70" tilecount="98" columns="14">
+  <image source="sheet.png" width="980" height="490"/>
+ </tileset>
+ <tileset firstgid="99" source="untitled.tsx"/>
+ <layer name="Tile Layer 1" width="70" height="9">
+  <data encoding="base64" compression="zlib">
+   eJztkDkOgFAIRL9r69q63v+QTqchw48kUslLXgdMmJSCIAhuOthnHJxyRzgRZ6c8KwUsM1bGe7JnrdcaNsTWmOfF173Ie9p+9ML5Wy8LXB9uytwOD+JpzPNC/sF8ywVGGQS1
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="70" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BkAgEiaWqDGAL0KBi8QBMLzYXEpxR4E6HGiUp2URNwIbFNqGAeejgTUoeLP9AAW3qhFIDCl5sIdaB04grENTjku6ngFnwAn/nIaQSWdkDuxOdebKAMCYOANJpYGQ59iXjM/A3EWSTi30j4JAGMrJZYEAzE8mhiaUD8FgsGiQMA3yQj3g==
+  </data>
+ </layer>
+</map>
